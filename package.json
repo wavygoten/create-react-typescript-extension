@@ -1,6 +1,6 @@
 {
 	"name": "create-react-typescript-extension",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Scaffold a react typescript browser extension app with this command npx create-react-typescript-extension@latest, updated regularly. For those who want simplicity in their codebase.",
 	"author": "wavygoten",
 	"license": "MIT",
