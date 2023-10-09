@@ -1,0 +1,36 @@
+{
+	"name": "create-react-typescript-extension",
+	"version": "1.0.0",
+	"description": "Scaffold a vanilla react-native, expressjs, and trpc app with this command npx create-react-native-express-trpc, updated regularly. For those who want simplicity in their codebase.",
+	"author": "wavygoten",
+	"license": "MIT",
+	"main": "./bin/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "./bin/index.js"
+	},
+	"bin": {
+		"create-react-native-express-trpc": "bin/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wavygoten/create-react-typescript-extension.git"
+	},
+	"keywords": [
+		"browser",
+		"extension",
+		"react",
+		"node",
+		"nodejs",
+		"npx"
+	],
+	"bugs": {
+		"url": "https://github.com/wavygoten/create-react-typescript-extension/issues"
+	},
+	"homepage": "https://github.com/wavygoten/create-react-native-express-trpc#readme",
+	"dependencies": {
+		"chalk": "^5.3.0",
+		"ora": "^7.0.1"
+	},
+	"type": "module"
+}
